@@ -1,0 +1,1 @@
+This application is a test project that utilizes an in-memory H2 database for quick and efficient data management. Upon running the application, two user accounts are automatically created to facilitate immediate testing and interaction. 
